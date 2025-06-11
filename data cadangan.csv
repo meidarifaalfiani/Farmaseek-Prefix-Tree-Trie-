@@ -1,0 +1,385 @@
+﻿Data Obat;;;;;;;;
+No.;Abjad;Nama Obat;Golongan;Kategori;Manfaat;Pengguna;Bentuk obat;Gangguan
+1;A;Abacavir;Obat resep;Antivirus nucleoside reverse transciptase inhibitors (NRTIs);Memperlambat perkembangan infeksi HIV;Dewasa dan anak usia ≥3 bulan;Tablet;HIV
+2;A;Abemaciclib;Obat resep;Penghambat protein kinase;Menangani kanker payudara;Dewasa;Tablet;Kanker payudara
+3;A;Abrocitinib;Obat resep;Obat imunosupresan;Mengatasi penyakit dermatitis atopik;Dewasa dan anak usia ≥12 tahun;Tablet;dermatitis atopik
+4;A;Acalabrutinib;Obat resep;Penghambat protein kinase;Mengobati leukemia limfostik kronis (LLK) atau limfoma limfostik kecil (LLS), dan limfoma sel mantel (LSM);Dewasa;Kapsul;leukemia limfostik kronis (LLK), limfoma limfostik kecil (LLS), limfoma sel mantel (LSM)
+5;A;Acarbose;Obat resep;Antidiabetes;Mengontrol kadar gula darah pada penderita diabetes tipe 2;Dewasa;Tablet;Diabetes
+6;A;Acebutolol;Obat resep;Penghambat beta (beta blockers);Mengobati hipertensi, aritmia, atau angina pektoris;Dewasa;Kapsul;hipertensi, aritmia, angina pektoris
+7;A;Acetazolamide;Obat resep;Diuretik;Mengobati glaukoma, edema, epilepsi, dan altitude sickness;Dewasa dan anak-anak usia di atas 12 tahun;Tablet;glaukoma, edema, epilepsi, altitude sickness
+8;A;Acetin;Obat resep;Obat pengencer dahak jenis mukolitik;"1. Mengencerkan dahak yang kental akibat penyakit saluran pernapasan, seperti bronkiektasis, bronkitis, kistik fibrosis, atau emfisema.
+2. Mengobati keracunan obat paracetamol
+3. Mengatasi gangguan pada saluran kemih akibat efek samping kemoterapi dengan cyclophosphamide
+";Dewasa dan anak-anak;Kapsul dan tablet effervescent;Bronkitis
+9;A;Acetylcysteine;Obat resep;Obat mukolitik (pengencer dahak);Mengencerkan dahak dan mengobati keracunan paracetamol;Dewasa dan anak-anak;Tablet effervescent, kapsul, sirop kering, granul, infus;Batuk berdahak, keracunan paracetamol
+10;A;Acetylcysteine Inhalasi;Obat resep;Obat mukolitik (pengencer dahak);Mengencerkan dahak;Dewasa;Cairan inhalasi;Bronkitis, batuk berdahak
+21;B;Bacitracin;Obat resep;Antibiotik polipetida;Mencegah dan mengobati infeksi bakteri pada kulit yang terluka;Dewasa dan anak-anak;Krim, salep, serbuk;mengobati luka gores dan ringan
+22;B;Baclofen;Relaksan otot;Obat resep;Meredakan nyeri, kram, kaku, dan tegang pada otot;Dewasa dan anak usia ≥12 tahun;Tablet;nyeri, kram, kaku,  tegang pada otot
+23;B;Bactoderm;Obat resep;Antibiotik;Mengobati infeksi bakteri pada kulit;Dewasa dan anak-anak;Krim dan salep;infeksi bakteri kulit
+24;B;Baloxavir Marboxil;Obat resep;Obat antivirus;Mengobati influenza;Dewasa dan anak usia ≥12 tahun;Tablet;influenza
+25;B;Balsem Lang;Obat bebas;Obat herbal;Meredakan pusing, masuk angin, pegal-pegal, nyeri sendi, keseleo, melegakan pernapasan, mabuk perjalanan, dan gatal-gatal karena gigitan serangga.;Dewasa;Balsam;pusing, masuk angin, pegal-pegal, nyeri sendi, keseleo, melegakan pernapasan, mabuk perjalanan, dan gatal-gatal karena gigitan serangga.
+26;B;Bamgetol;Obat resep;Antikonvulsan dan antimania;"1. Mengatasi dan mengurangi kambuhnya kejang pada penderita epilepsi.
+2. Meredakan nyeri pada wajah akibat gangguan saraf trigeminal atau disebut juga trigeminal neuralgia
+3. Meredakan nyeri pada tenggorokan, lidah, atau telinga akibat gangguan saraf (glossopharyngeal neuralgia)
+4. Meredakan gejala gangguan bipolar yang tidak bisa diobati dengan lithium";"Dewasa dan anak usia ≥6 tahun
+";Tablet;kejang epilepsi, nyeri wajah, nyeri tenggorokan, gangguan bipolar
+27;B;Baquinor;Obat resep;Antibiotik jenis quinolone;Mengatasi infeksi bakteri;Dewasa;"Tablet, kaplet, infus
+";infeksi bakteri
+28;B;Baricitinib;Obat resep;Imunosupresan/Disease Modifying Antirheumatic Drugs (DMARD);"1. Mengobati gejala rheumatoid arthritis yang tidak membaik dengan obat lain dari kelompok DMARD
+2. Menangani alopecia areata yang parah
+3. Mengatasi dermatitis atopik gejala sedang hingga berat";Dewasa usia ≥18 tahun;Tablet;rheumatoid. Alopecia areata, dermatitis atopik
+29;B;Basiliximab;Obat resep;Imunosupresan;Mencegah terjadinya reaksi penolakan organ yang baru saja di transplantasi;Dewasa dan anak-anak;"Suntik
+";nyeri pasca operasi
+30;B;Beclometasone;Obat resep;Kortikosteroid;Mengurangi serangan asma kambuh dan mengontrol gejala asma;Dewasa dan anak-anak;Inhaler;asma
+41;C;Cal-95;Suplemen;Suplemen vitamin dan mineral;Menjaga kesehatan tulang;Dewasa dan anak-anak;Kaplet;Tulang
+42;C;Calamine;Obat bebas;Antipruritik;Meredakan gatal akibat iritasi ringan;Dewasa dan anak-anak;Lotion dan bedak;Gatal Iritasi
+43;C;Calcipotriol;Obat resep;Antipsoriasis;Mengatasi psoriasis;Dewasa dan anak-anak usia ≥6 tahun;Gel dan salep;Psoriasis
+44;C;Callusol;Obat bebas;Keratolitik;Menghilangkan kutil, mata ikan, atau kapalan;Dewasa;Cairan obat luar;Kutil, mata ikan, kapalan
+45;C;Calquence;Obat resep;Penghambat Protein kinase;Mengobati leukimia limfostik kronis (LLK) atau limfoma limfostik kecil (LLS), dan limfoma sel mantel (LSM);Dewasa;Kapsul;Leukimia limfostik kronis, Limfoma limfostik kecil, Limfoma sel mantel
+46;C;Canagliflozin;Obat resep;Antidiabetes jenis SGLT2 inhibitor;Menurunkan kadar gula darah pada penderita diabetes melitus tipe 2;Dewasa;Tablet;Diabetes Melitus tipe 2
+47;C;Candefar;Obat resep;Angiotensin receptor blocker;Mengatasi tekanan darah tinggi dan gagal jantung;Dewasa dan anak usia 1 tahun ke atas;Tablet;Tekanan darah tinggi dan gagal jantung
+48;C;Carbidu;Obat resep;Kortikosteroid;Mengatasi peradangan;Dewasa;Tablet;peradangan
+49;C;Canderin;Obat resep;Angiotensin receptor blocker (ARB), antagonis kalsium;Mengatasi tekanan darah tinggi dan gagal jantung;Dewasa;Tablet;darah tinggi dan gagal jantung
+50;C;Carvilol;Obat resep;Penghamat beta;Mengatasi tekanan darah tinggi, Menangani gagal jantung, Mengatasi angina stabil kronis, Mencegah terjadinya komplikasi setelah serangan jantung;Dewasa;Tablet;tekanan darah tinggi, gagal jantung, angina stabil kronis, serangan jantung
+51;C;Cazetin;Obat resep;Anti jamur golongan polyene (antimikotik);Mengobati kandidiasis oral dan kandidiasis di saluran cerna;Dewasa dan anak-anak;Tetes oral atau drops;Kandidiasis saluran cerna
+61;D;D-Cool;Obat bebas;Antiseptik;Mengatasi infeksi tenggorokan;Dewasa dan anak-anak;Tablet isap;Infeksi tenggorokan
+62;D;Dabigatran;Obat resep;Antikoagulan;Mencegah dan mengatasi penggumpalan darah;Dewasa;Kapsul;Penggumalan darah
+63;D;Dacarbazine;Obat resep;Obat antikanker/kemoterapi;Mengobati melanoma (kanker kulit), sarkoma jaringan lunak, dan Hodgkin’s lymphoma (jenis kanker kelenjar getah bening).;Dewasa;Infus;melanoma (kanker kulit), sarkoma jaringan lunak, Hodgkin’s lymphoma (jenis kanker kelenjar getah bening).
+64;D;Dacin;Obat resep;Antibiotik jenis lincosamide;Mengatasi infeksi bakteri;Dewasa;Kapsul;Infeksi bakteri
+65;D;Daclatasvir;Obat resep;Antivirus;Menangani hepatitis C;Dewasa;Tablet;Hepatitis C
+66;D;Daktarin;Obat bebas;Antijamur;Mengatasi infeksi jamur pada kulit, seperti panu, kutu air, kurap, candidiasis, onikomikosis, ruam popok, serta infeksi jamur di mulut;Dewasa dan anak-anak;Bedak, krim, dan gel;Infeksi jamur (panu, kutu air, kurap, candidiasis, onikomikosis, ruam popok, infeksi jamur di mulut
+67;D;Daktarin Oral Gel;Obat resep;Antijamur;Mengobati infeksi jamur pada mulut, tenggorokan, dan saluran pencernaan;Dewasa dan anak-anak;Oral gel;Infeksi jamur
+68;D;Damaben;Obat resep;Antiemetik;Meredakan mual dan muntah;Dewasa dan anak-anak;Tablet, sirop, drops, dan suntik;Mual, muntah
+69;D;Danasone;Obat resep;Kortikosteroid dan imunosupresan;Meredakan peradangan dan Menangani penyakit autoimun;Dewasa dan anak-anak;Tablet;Autoimun, autoimun
+70;D;Danazol;Obat resep;Hormon androgenik;Menangani endometriosis, meredakan keluhan pada penyakit payudara fibrokistik, serta mencegah kambuhnya gejala angioedema;Dewasa;Kapsul;Endometriosis, payudara fibrokistik
+81;E;Eclid;Obat resep;Obat antidiabetes golongan alpha-glucosidase inhibitors;Mengendalikan kadar gula darah pada penderita diabetes tipe 2;Dewasa usia ≥18 tahun;Tablet;Diabetes tipe 2
+82;E;Econazine Krim;Obat resep;Antijamur azole dan kortikosteroid topikal;Mengobati infeksi jamur di kulit yang disertai gejala peradangan berat, seperti kutu air, tinea cruris, kurap, atau candidiasis.;Dewasa dan anak usia ≥12 tahun;Krim;Kutu air, tinea cruris, kurap, candidiasis.
+83;E;Econazole;Obat resep;Antijamur azole;Mengobati atau mencegah infeksi jamur kulit dan kuku;Dewasa dan anak usia 12 tahun ke atas;Krim;Infeksi jamur kulit, kutu
+84;E;Edaravone;Obat resep;Antioksidan;Mengobati amyotrophic lateral sclerosis;Dewasa;Suntik;Amyotrophic lateral sclerosis
+85;E;Edoxaban;Obat resep;Antikoagulan jenis penghambat faktor Xa;"1. Mencegah terjadinya stroke pada penderita gangguan irama jantung jenis atrial fibrilasi.
+2. Mengatasi dan mencegah kambuhnya trombosis vena dalam atau emboli paru
+";Dewasa;Tablet salut selaput;Stroke
+86;E;Efavirenz;Obat resep;Antivirus non-nucleoside reverse transcriptase inhibitor (NNRTI);Mengontrol dan mencegah infeksi HIV;Dewasa dan anak-anak usia di atas 3 bulan;Tablet, kapsul;HIV
+87;E;Efisol C;Obat bebas;Antiseptik mulut dan tenggorokan;Mengatasi infeksi ringan pada rongga mulut dan tenggorokan yang disebabkan oleh bakteri atau jamur;Dewasa dan anak-anak;Tablet isap;Infeksi ringan rongga mulut (tenggorokan)
+88;E;Eflagen;Obat resep;Obat antiiflamasi nonsteroid (OAINS);Meredakan nyeri dan peradangan, misalnya pada radang sendi, nyeri haid, sakit gigi, nyeri otot, atau nyeri setelah operasi;Dewasa dan anak usia >14 tahun;Tablet;Radang sendi, nyeri haid, sakit gigi, nyeri otot, nyeri operasi
+89;E;Eflin;"1. Obat resep untuk Eflin sediaan tablet
+2. Obat bebas terbatas untuk Eflin sediaan sirop";Dekongestan dan antihistamin;Meringankan gejala flu, batuk pilek, dan alergi;Dewasa dan anak-anak;Tablet dan sirop;flu, batuk pilek, alergi
+90;E;Elbasvir-Grazoprevir;Obat resep;Antivirus;Mengatasi hepatitis C;Dewasa (usia >18 tahun);Tablet;Hepatitis C
+101;F;Fargetix;Obat resep;Obat antiinflamasi nonsteroid (OAINS);Meredakan nyeri ringan hingga sedang, seperti sakit gigi, nyeri haid (dismenore primer atau menorrhagia), sakit kepala, nyeri akibat cedera, atau nyeri pascaoperasi, Mengurangi gejala radang sendi pada penderita osteoarthritis atau rheumatoid arthritis;Dewasa usia ≥14 tahun;Kaplet dan suspensi;Nyeri, sakit kepala, radang sendi
+102;F;Farizol;Obat resep;Obat antibiotik;Mengobati infeksi bakteri anaerob, Mengatasi infeksi parasit tertentu;Dewasa dan anak-anak;Kaplet dan suspensi;Infeksi bakteri anaerob dan parasit
+103;F;Farmadol;Obat bebas untuk Farmadol Kaplet, Obat resep untuk Farmadol Infus;Analgetik-antipiretik;Meredakan nyeri ringan hingga sedang Menurunkan demam, misalnya saat flu dan pilek, atau setelah vaksinasi;Dewasa dan anak-anak;Kaptab dan cairan infus;Nyeri ringan, demam, flu
+104;F;Farmoten;Obat resep;Penghambat enzim pengubah angiotensin (ACE inhibitor);Mengatasi hipertensi, gagal jantung, dan nefropati diabetik, Mencegah komplikasi setelah serangan jantung;Dewasa dan lansia;Tablet;Hipertensi, gagal jantung, nefropati diabetik, komplikasi serangan jantung
+105;F;Farpain;Obat resep;Obat antiinflamasi nonsteroid (NSAID);Meredakan nyeri skala sedang hingga berat, contohnya nyeri setelah operasi;Dewasa (usia ≥16 tahun);Tablet salut selaput dan cairan suntik;nyeri sedang hingga berat
+106;F;Fasidol;Obat bebas;Analgesik dan antipiretik;Meredakan nyeri dan demam;Dewasa dan anak-anak;Kaplet, sirop, dan drops;nyeri dan demam
+107;F;Faxiden;Obat resep;Obat antiinflamasi nonsteroid (OAINS);Meredakan nyeri dan peradangan;Dewasa;Kaplet;nyeri dan peradangan
+108;F;Fasiprim;Obat resep;Antibiotik golongan sulfonamida;Mengobati infeksi bakteri pada saluran pernapasan, saluran cerna, saluran kemih, serta telinga;Dewasa dan bayi usia >2 bulan;Kaplet dan sirop;infeksi bakteri saluran pernapasan, saluran cerna, saluran kemih, telinga
+109;F;Farsifen;Obat bebas terbatas dan obat resep;Obat antiinflamasi nonsteroid (OAINS), antipretik, dan analgesik;Meredakan demam, nyeri, dan peradangan;Dewasa dan anak-anak;Kaplet, suspensi;demam, nyeri dan peradangan
+110;F;Feldco;Obat resep;Obat antiinflamasi nonsteroid (OAINS);Meredakan nyeri dan peradangan;Dewasa;Kapsul;nyeri dan peradangan
+121;G;Gabapentin;Obat resep;Antikejang dan pereda nyeri neuropati;Meredakan kejang, sindrom kaki gelisah, dan nyeri neuropati akibat herpes;Dewasa dan anak-anak usia ≥6 tahun;Kapsul;Kejang, sindrom kaki gelisah, nyeri neuropati akibat herpes
+122;G;Gabiten;Obat resep;Antihistamin;Meredakan gejala alergi, termasuk rhinitis alergi, konjungtivitis alergi, atau biduran;Dewasa dan anak usia >10 tahun;Kaplet;Rhinitis alergi, konjungtivitis alergi, biduran
+123;G;Gaforin;Obat resep;Antibiotik golongan quinolone;Mengobati konjungtivitis dan keratitis akibat infeksi bakteri;Dewasa dan anak usia ≥1 tahun;Tetes mata (eye drop);Infeksi bakteri
+124;G;Galantamine;Obat resep;Cholinesterase inhibitors;Meringankan gejala penyakit Alzheimer;Dewasa;Kapsul lepas lambat, tablet, sirop;Alzheimer
+125;G;Galdom;Obat resep;Antiemetik jenis antagonis dopamin;Mengatasi mual dan muntah;Dewasa dan anak-anak;Tablet dan suspensi;Mual dan muntah
+126;G;Galepsi;Obat resep;Antikonvulsan atau antikejang;Meredakan kejang epilepsi dan nyeri saraf (neuropati), termasuk yang dipicu oleh herpes zoster.;Dewasa dan anak usia ≥3 tahun;Kapsul;herpes zoster
+127;G;Gallium Nitrate;Obat resep;Penurun kalsium dalam darah;Menurunkan kadar kalsium dalam darah pada pasien kanker;Dewasa;Suntik;Kanker
+128;G;Galpect;Obat resep;Obat pengencer dahak jenis mukolitik;Mengencerkan dahak;Dewasa dan anak-anak;Tablet dan sirop;Mengencerkan dahak
+129;G;Galvus;Obat resep;Antidiabetes;Menurunkan kadar gula darah pada pasien diabetes tipe 2;Dewasa usia di atas 18 tahun;Tablet;Diabetes tipe 2
+130;G;Galvusmet;Obat resep;Obat antidiabetes kombinasi penghambat DPP-4 (vildagliptin) dan biguanide (metformin);Menurunkan kadar gula darah yang tinggi pada penderita diabetes tipe 2;Dewasa;Tablet salut selaput;Diabetes tipe 2
+141;H;H-Booster;Obat bebas;Suplemen vitamin dan mineral;Membantu menjaga daya tahan tubuh anak;Anak-anak;Sirop;daya tahan tubuh
+142;H;Haloperidol;Obat resep;Antipsikotik;Meredakan psikosis, gejala skizofrenia atau mania, serta mengontrol sindrom Tourette;Dewasa dan anak-anak ≥3 tahun;Tablet, kaplet, obat tetes oral (drops), injeksi;psikosis, mania sindrom tourette
+143;H;Hemobion;Suplemen;Suplemen vitamin dan mineral;Memenuhi kebutuhan vitamin dan mineral, Mengatasi anemia;Dewasa;Kapsul;anemia
+144;H;Heplav;Obat resep;Obat antivirus;Mengatasi infeksi virus hepatitis B dan HIV;Dewasa dan anak-anak ≥3 tahun;Tablet, kaplet, obat tetes oral (drops), injeksi;virus hepatitis B dan HIV
+145;H;Heptasan;Obat resep;Antihistamin;Meringankan gejala alergi;Dewasa dan anak usia ≥2 tahun;Tablet, kaplet, obat tetes oral (drops), injeksi;alergi
+146;H;Histigo;Obat resep;Antihistamin H3;Mengobati keluhan vertigo, gangguan pendengaran, dan telinga berdenging (tinnitus) akibat penyakit Meniere;Dewasa;Kaplet;verigo, gangguan pendengaran, telinga berdenging
+147;H;Holimox;Obat resep;Antibiotik penisilin;Mengobati infeksi bakteri;Dewasa dan anak-anak;Kaplet dan sirop kering;infeks bakteri
+148;H;Hufadine;Obat resep;Antagonis H2;Mengobati kondisi yang terkait oleh asam lambung berlebih, seperti penyakit asam lambung (GERD), tukak lambung, ulkus duodenum, dan sindrom Zollinger-Ellison.;Dewasa;Kaplet salut selaput;Asam lambung, tukak lambung, ulkus dodenum, dan sindrom zollinger-ellison
+149;H;Hufadon;Obat resep;Antiemetik;Meredakan mual dan muntah;Dewasa dan anak usia ≥12 tahun;Kaplet dan suspensi;mual dan muntah
+150;H;Hydrocodone;Obat resep;Obat antinyeri golongan opioid;Meredakan rasa nyeri sedang hingga berat;Dewasa;Kapsul dan tablet;nyeri sedang hingga berat
+161;I;Ibandronate;Obat resep;Bisfosfonat;Mencegah dan mengatasi osteoporosis, terutama pada wanita menopause.;Dewasa;Tablet dan suntik;Osteoporosis
+162;I;Ibrutinib;Obat resep;Obat penghambat protein kinase;Mengobati kanker darah, limfoma, dan graft versus host disease;Dewasa dan anak ≥ 1 tahun;Tablet;Kanker darah, limfoma, graft versus host disease
+163;I;Ibuprofen;Obat bebas terbatas dan Obat resep;Obat antiinflamasi nonsteroid (NSAID);"1. Meredakan nyeri derajat ringan hingga sedang
+2. Menurunkan demam";Dewasa dan anak usia ≥6 bulan;Tablet, kapsul, kapsul lunak, suspensi atau sirop, tetes oral atau drops, granula, suntik;Demam
+164;I;Ibuprofen Rektal;Obat resep;Obat antiinflamasi nonsteroid (NSAID);"1. Meredakan nyeri skala ringan hingga sedang, misalnya pada sakit gigi, nyeri haid, atau nyeri akibat terkilir
+2. Meringankan gejala radang sendi atau radang tendon, seperti pada rheumatoid arthritis, osteoarthritis, tendinitis, atau bursitis
+3. Menurunkan demam";Anak usia ≥3 tahun;Enema dan suppositoria;Sakit gigi, nyeri haid, nyeri akibat terkilir, radang sendi
+165;I;Icodextrin;Obat resep;Cairan koloid osmotik;"1. Mengeluarkan darah kotor dan racun pada prosedur cuci darah di perut atau CAPD (continuous ambulatory peritoneal dialysis)
+2. Mengganti cairan tubuh pada kondisi perdarahan dan dehidrasi berat";Dewasa;Larutan untuk dialisis dan cairan infus;Ginjal
+166;I;Ifen;Obat resep;Obat antiinflamasi nonsteroid (OAINS);Meredakan demam dan nyeri;Dewasa;Tablet;Demam
+167;I;Iflacort;Obat resep;Obat kortikosteroid;Meredakan gejala peradangan pada kulit, yang disebabkan oleh reaksi alergi, dermatitis atopik (eksim), dermatitis seboroik, dan psoriasis.;Dewasa dan anak-anak;Krim;Alergi, dermatitis atopik (eksim), dermatitis seboroik, psoriasis.
+168;I;Ifosfamide;Obat resep;Kemoterapi;Mengobati beberapa jenis kanker, termasuk kanker testis;Dewasa;Serbuk suntik;Kanker testis
+169;I;Iliadin;Obat bebas terbatas;Dekongestan;Meringankan gejala hidung tersumbat karena flu, batuk pilek, sinusitis, atau rhinitis alergi.;Dewasa dan anak usia ≥2 tahun;Semprot hidung dan tetes hidung;Flu, batuk pilek, sinusitis, atau rhinitis alergi
+170;I;Imatinib;Obat resep;Obat antikanker golongan penghambat protein kinase;Mengobati leukemia, gastrointestinal stromal tumors (GIST), sindrom mielodisplasia, sindrom hipereosinofilik, mastositosis sistemik agresif, serta dermatofibrosarcoma protuberans yang sulit diatasi melalui operasi;Dewasa dan anak-anak;Tablet dan kapsul;Leukemia, gastrointestinal stromal tumors (GIST), sindrom mielodisplasia, sindrom hipereosinofilik, mastositosis sistemik agresif, dermatofibrosarcoma protuberans
+181;J;Janumet;Obat resep;Obat antidiabetes kombinasi penghambat DPP-4 (sitagliptin) dan biguanide (metfornim);Mengendalikan kadar gula darah pada penderita diabetes tipe 2;Dewasa (usia ≥18 tahun);Tablet;Diabetes tipe 2
+182;J;Janumet XR;Obat resep;Antidiabetes;Mengendalikan kadar gula darah pada penderita diabetes tipe 2;Dewasa;Tablet lepas lambat;Diabetes tipe 2
+183;J;Januvia;Obat resep;Antidiabetes;Mengendalikan kadar gula darah pada penderita diabetes tipe 2;Dewasa;Tablet;Diabetes tipe 2
+184;K;Kadiflam;Obat resep;Obat antiinflamasi nonsteroid (OAINS);Meredakan nyeri dan peradangan, contohnya pada radang sendi, sakit gigi, atau migrain;Dewasa dan anak usia ≥14 tahun;Tablet;Radang sendi, sakit gigi, migrain
+185;K;Kaditic;Obat resep;Obat antiinflamasi nonsteroid (OAINS);Mengobati nyeri dan peradangan;Dewasa dan anak usia >14 tahun;Tablet;Nyeri, peradangan
+186;K;Kafein;Obat bebas dan resep;Stimulan sistem saraf pusat;Meredakan kantuk atau meredakan sakit kepala migrain;Dewasa dan anak-anak;Kaplet, tablet, serbuk, dan suntik;Sakit kepala / Migrain
+187;K;Kaflem;Obat resep;Obat anti inflamasi nonsteroid (OAINS);Mengatasi gejala peradangan, seperti nyeri dan bengkak, pada kondisi sakit gigi, kram menstruasi, migrain, serta nyeri sendi dan nyeri otot karena rheumatoid arthritis dan osteoarthritis;Dewasa dan anak usia >14 tahun;Tablet salut selaput;sakit gigi, kram menstruasi, migrain, nyeri sendi, nyeri otot
+188;K;Kalitake;Obat resep;lon-exchange resin;Mengatasi hiperkalemia akibat gagal ginjal akut dan kronis;Dewasa;Serbuk;Hiperkalamia
+189;K;Kalium;Obat bebas dan resep;Suplemen mineral;Mengobati dan mencegah kekurangan kalium (hipokalemia);Dewasa dan anak-anak;Tablet, tablet lepas lambat, suntik atau infus;Hipokalamia
+190;K;Kalmeco;Obat resep;Suplemen;Mengatasi keluhan akibat gangguan saraf tepi (neuropati perifer);Dewasa;Kapsul dan suntik;Neuropati perifer
+191;K;Kalmethasone;Obat resep;Kortikosteroid;Meredakan peradangan;Dewasa dan anak-anak;Tablet;Peradangan
+192;K;Kalnex;Obat resep;Antifibrinolitik;"1. Menghentikan perdarahan pada mimisan; cedera; maupun perdarahan pascaoperasi 
+2. Mengurangi perdarahan pada menorrhagia 
+3. Mencegah perdarahan pada pasien hemofilia 
+4. Menangani hereditary angiodema";Dewasa;Kapsul, tablet, cairan suntik;Pendarahan
+193;K;Kalpanax;Obat resep;Antijamur;"1. Mengatasi infeksi jamur kulit, seperti panu, kutu air, dan kurap 
+2. Mengatasi gatal akibat eksim (Kalpanax Salep)";Dewasa;Krim dan salep;Jamur kulit
+194;K;Kalpepsa;Obat resep;Anti-ulkus;Mengatasi tukak lambung, ulkus duodenum, atau gastritis kronis.;Dewasa;Suspensi;tukak lambung, ulkus duodenum, gastritis kronis
+195;K;Kalsium;Obat resep;Suplemen mineral;Mencegah dan mengatasi defisiensi kalsium;Dewasa dan anak-anak;Tablet, kapsul, dan sirop;Defisiensi kalsium
+196;K;Kalsium Asetat;Obat resep;Pengikat fosfat;Menurunkan kadar fosfat dalam darah pada pasien end stage of renal disease yang sedang cuci darah;Dewasa;Tablet;Hiperfosfatemia
+197;K;Kalsium Glukonat;Obat resep dan obat bebas;Suplemen mineral;Mengatasi kondisi kekurangan kalsium;Dewasa dan anak-anak;Kapsul, kaplet, sirop, suntik;Kekurangan kalsium
+203;K;Kanamycin;Obat resep;Antibiotik golongan aminoglikosida;Mengobati infeksi bakteri;Dewasa dan anak-anak;Kapsul dan suntik;Infeksi bakteri
+204;L;L-Acys;Obat resep;Obat pengencer dahak jenis mukolitik;Mengencerkan dahak;Dewasa dan anak-anak;Dewasa dan anak-anak;Berdahak
+205;L;L-Alanyl-L-Glutamine;Obat resep;Suplemen asam amino;Mengatasi kekurangan glutamine;Dewasa;Suntik;Kekurangan Glutamine
+206;L;L-Cysteine;Obat bebas dan obat resep;Asam amino;Menjaga kesehatan, dan berperan sebagai nutrisi parenteral untuk pasien penyakit hati yang parah;Dewasa dan anak-anak;Kaplet, kapsul, tablet, infus;Hati
+207;L;l-Theanine;Obat bebas;Suplemen asam amino;"1. Meredakan kecemasan dan stres
+2. Mengatasi insomnia
+3. Meningkatkan fokus
+4. Meningkatkan efektivitas kemoterapi";Dewasa dan anak-anak;Kapsul, tablet, dan gummy;kecemasan, stress, insomnia
+208;L;Labetalol;Obat resep;Penghambat beta;Mengatasi tekanan darah tinggi;Dewasa dan lansia;Tablet, suntik;Darah tinggi
+209;L;Lactacyd Baby;Produk bebas;Sabun dan sampo bayi;Membersihkan dan melembutkan kulit dan rambut bayi, serta mencegah iritasi pada kulit bayi;Bayi;Cairan kental;Iritasi kulit bayi
+210;L;Lacto-B;Suplemen;Probiotik;"1. Mencegah dan mengobati diare
+2. Mengurangi gejala intoleransi laktosa
+3. Mencegah sembelit";Anak usia 1–12 tahun;Bubuk;Diare, gejala intoleransi laktosa, Sembelit
+224;M;Maaggel;Obat bebas;Antasida;Meredakan gejala asam lambung berlebih pada GERD, gastritis, atau tukak lambung;Dewasa;Suspensi;GERD, gastritis, tukak lambung
+225;M;Macrogol;Obat bebas dan resep;Obat pencahar;Mengatasi sembelit atau konstipasi, dan untuk mengosongkan usus sebelum prosedur operasi usus dan pemeriksaan kolonoskopi.;Dewasa dan anak usia ≥4 tahun;Serbuk dan cairan enema;Sembelit, konstipasi
+226;M;Magaldrate;Obat bebas;Antasida;Mengatasi penyakit asam lambung, gastritis, tukak lambung, atau tukak duodenum;Dewasa;Suspensi dan tablet kunyah;Asam lambung, gastritis, tukak lambung, tukak duodenum
+227;M;Magasida;Obat bebas;Antasida;Meredakan gejala akibat asam lambung berlebih pada gastritis, tukak lambung, atau ulkus duodenum;Dewasa dan anak usia >6 tahun;Tablet dan sirop;Gastritis, tukak lambung, ulkus duodenum
+228;M;Magnesium Hidroksida;Obat bebas;Antasida dan obat pencahar;Menetralkan asam lambung dan mengatasi konstipasi;Dewasa dan anak usia ≥3 tahun;Suspensi dan tablet kunyah;Asam lambung, konstipasi
+229;M;Magnesium Karbonat;Obat bebas;Suplemen magnesium dan antasida;Mengatasi kekurangan magnesium dan kelebihan asam lambung;Dewasa dan anak-anak;Tablet, kapsul, dan suspensi;Asam lambung
+230;M;Magnesium Sitrat;Obat bebas;Suplemen dan obat pencahar;Sebagai suplemen mineral dan untuk mengatasi sembelit;Dewasa dan anak-anak;Tablet, kapsul, sirop;Sembelit
+231;M;Magnesium Sulfat (MgSO4);Obat resep;"Antikonvulsan dan 
+Suplemen mineral";"1. Mengobati hipomagnesemia 
+2. Mencegah terjadinya kejang pada penderita preeklamsia dan mengendalikan kejang pada penderita eklamsia";Dewasa;Suntik;Hipomagnesemia, preeklamsia, eklamsia
+232;M;Magnesium Trisilicate;Obat bebas;Antasida;Meredakan gejala asam lambung berlebih, seperti tukak lambung atau sakit maag;Dewasa dan anak usia 5 tahun ke atas;Tablet, tablet kunyah, kaplet, sirop;Tukak lambung, maag
+233;M;Maintate;Obat resep;Penghambat beta;"1. Menangani hipertensi 
+2. Mengatasi angina pektoris 
+3. Menangani gagal jantung";Dewasa;Tablet;Hipertensi, angina pektoris, gagal jantung
+234;M;Maltofer;Obat bebas;Obat;Pengobatan pada defisiensi zat besi tanpa anemia dan anemia defisiensi besi dan sebagai terapi pencegahan defisiensi zat besi selama kehamilan;Dewasa;Tablet kunyah, sirop, drops;Anemia
+235;M;Manitol;Obat resep;Diuretik osmotik;"1. Menurunkan tekanan intrakranial atau intraokular 
+2. Mengurangi pembengkakan otak";Dewasa dan anak-anak;Infus;Tekanan Intrakranial, intraokular, pembengkakan otak
+236;M;Mantino;Obat bebas;Antimual golongan antihistamin;Meredakan pusing, mual, dan muntah akibat mabuk perjalanan;Dewasa dan anak usia >5 tahun;Tablet;Pusing, mual, muntah, mabuk perjalanan
+244;N;Nabumetone;Obat resep;Obat antiinflamasi nonsteroid (OAINS);Mengatasi gejala arthritis, seperti osteoarthritis dan rheumatoid arthritis;Dewasa;Tablet;gejala arthritis
+245;N;Nadolol;Penghambat beta;Penghambat beta;Menurunkan tekanan darah pada hipertensi, meredakan angina pektoris, dan mengobati gangguan irama jantung;Dewasa;Tablet;hipertensi, angina pektoris, gangguan irama jantung
+246;N;Naftidrofuryl Oxalate;Obat resep;Vasodilator;Mengatasi penyakit vaskular perifer dan penyakit serebrovaskuler;Dewasa;Tablet;vaskular perifer dan serebrovaskuler
+247;N;Naftifine;Obat resep;Antijamur golongan allylamine;Mengobati infeksi jamur kulit;Dewasa dan anak-anak usia 12 tahun ke atas;Krim dan gel;infeksi jamur
+248;N;Nalgestan;Obat bebas terbatas;Dekongestan dan antihistamin;Meredakan gejala flu dan pilek;Dewasa;Tablet;flu dan pilek
+249;N;Nadroparin;Obat resep;Antikoagulan;Mencegah dan mengatasi penggumpalan darah, seperti pada deep vein thrombosis dan emboli paru;Dewasa;Suntik;penggumpalan darah
+250;N;Nalbuphine;Obat resep;Antinyeri golongan opioid;Meredakan rasa sakit atau nyeri sedang hingga berat;Dewasa;Suntik;nyeri sedang hingga berat
+263;O;Olanzapine;Obat resep;Antipsikotik;Mengobati skizofrenia dan gangguan bipolar;Dewasa;Tablet, suntik;skizofrenia dan gangguan bipolar
+264;O;Olaparib;Obat resep;Obat kemoterapi;Menangani kanker payudara, kanker prostat, kanker ovarium, kanker pankreas, kanker tuba falopi, atau kanker peritoneum;Dewasa dan anak-anak;Tablet;kanker payudara, kanker prostat, kanker ovarium, kanker pankreas, kanker tuba falopi, kanker peritoneum
+265;O;Obeslim;Obat resep;Obat antiobesitas;Mengurangi penyerapan lemak, membantu menurunkan berat badan dan mencegah kenaikan berat badan;Dewasa dan anak-anak;Kapsul;menurunkan berat badan
+266;O;Octreotide;Obat resep;Octapeptide;Menurunkan jumlah hormon pertumbuhan pada penderita akromegali, mengontrol gejala diare dan flushing pada wajah dan leher akibat tumor karsinoid dan VIP tumor.;Dewasa dan anak-anak;Injeksi;diare dan flushing tumor, VIP tumor
+267;O;Ocuson;Obat resep;Antihistamin dan kortikosteroid;Mengatasi gejala alergi dan peradangan;Dewasa dan anak usia di atas 12 tahun;Tablet;gejala alergi dan peradangan
+268;O;Ofloxacin;Antibiotik quinolone;Obat resep;Mengobati infeksi bakteri;Dewasa dan anak-anak;Tablet, kaplet, tetes mata, tetes telinga, suntik;infeksi bakteri
+269;O;Oksitosin;Obat resep;Hormon sintetis;Memicu kontraksi rahim, mengontrol perdarahan setelah melahirkan, dan membantu keluarnya ASI;Dewasa;Suntik;kontraksi rahim, pendarahan melahirkan, asi tersumbat
+270;O;Olaparib;Obat resep;Obat kemoterapi;Menangani kanker payudara, kanker prostat, kanker ovarium, kanker pankreas, kanker tuba falopi, atau kanker peritoneum;Dewasa dan anak-anak;Tablet;kanker payudara, kanker prostat, kanker ovarium, kanker pankreas, kanker tuba falopi, atau kanker peritoneum
+271;O;Olmetec;Obat resep;Angiotensin receptor blocker (ARB), diuretik thiazide;Mengatasi tekanan darah tinggi;Dewasa;Tablet;hipertensi
+272;O;Olmesartan;Obat resep;Penghambat reseptor angiotensin II;Mengobati tekanan darah tinggi (hipertensi);Dewasa dan anak-anak usia ≥6 tahun;Tablet salut selaput;hipertensi
+273;O;Omedom;Obat resep;Antiemetik jenis antagonis dopamin;Meredakan mual dan muntah, Mengatasi rasa tidak nyaman di perut akibat gastroparesis;Dewasa dan anak usia ≥12 tahun dengan BB ≥35 kg;Tablet dan sirop;mual, muntah, maag
+274;O;Omegdiar;Obat bebas;Obat diare;Mengatasi gejala diare;Dewasa dan anak >6 tahun;Tablet dan sirop;diare dan flushing tumor, VIP tumor
+275;O;Omenacort;Obat resep;Kortikosteroid;Mengatasi reaksi alergi atau peradangan, termasuk radang sendi, Menangani penyakit autoimun;Dewasa;Tablet;alergi, peradangan dan autoimun
+276;O;Omegzole;Obat resep;Obat antijamur jenis azole;Mengobati infeksi jamur sistemik, infeksi jamur mulut, kandidiasis vagina, dan sindrom Cushing.;Dewasa dan anak-anak usia 2 tahun ke atas;Tablet;infeksi jamur sistemik, infeksi jamur mulut, kandidiasis vagina dan sindrom cushing
+277;O;Omeroxol;Obat resep;Obat pengencer dahak jenis mukolitik;Mengencerkan dahak;Dewasa dan anak usia ≥2 tahun;Tablet dan sirop;batuk berdahak
+283;P;Paclitaxel;Obat resep;Antikanker;Menangani kanker payudara, kanker paru-paru, kanker pankreas, atau sarkoma Kaposi pada penderita HIV;Dewasa;Suntik;kanker payudara, kanker paru-paru, kanker pankreas, atau sarkoma Kaposi pada penderita HIV
+284;P;Paliperidone;Obat resep;Antipsikotik;Meredakan gejala skizofrenia dan gejala skizoafektif;Dewasa dan anak usia ≥12 tahun;Tablet lepas lambat, cairan suntik;gejala skizofrenia dan gejala skizoafektif
+285;P;Palenox;Retinoid topikal;Obat resep;Mengatasi jerawat (acne vulgaris);Dewasa dan anak usia 12 tahun ke atas;Gel;jerawat (acne vulgaris)
+286;P;Pamol Supositoria;Obat bebas;Analgetik dan antipiretik;Meredakan nyeri dan demam;Dewasa dan anak-anak;Supositoria;nyeri dan demam
+287;P;Panadol Anak;Obat bebas;Analgeltik dan antipiretik;"Menurunkan demam, Menurunkan demam 
+Meredakan nyeri, misalnya sakit kepala atau nyeri karena tumbuh gigi";Anak-anak atau dewasa yang tidak bisa menelan tablet;Tablet kunyah, sirop;"demam, Menurunkan demam 
+Meredakan nyeri, misalnya sakit kepala atau nyeri karena tumbuh gigi"
+288;P;Panadol;Obat bebas dan obat bebas terbatas;Analgesik & antipiretik;Meredakan demam, gejala flu, sakit kepala, dan sakit gigi;Dewasa dan anak-anak;Kaplet;demam, flu dan sakit kepala
+289;P;Pancuronium;Neuromuscular blocking drugs (NMBDs) atau pelemas otot nondepolarisasi;Obat resep;Merelaksasikan otot saat intubasi endotrakeal atau selama operasi;Dewasa dan anak-anak;Suntik;intubasi endotrakeal
+290;P;Pantopump;Obat resep;Penghambat pompa proton;Mengurangi produksi asam lambung pada penyakit asam lambung (GERD) dan sindrom Zollinger-Ellison, Mendukung penyembuhan tukak lambung, ulkus duodenum, dan esofagitis erosif (radang kerongkongan akibat GERD);Dewasa;Tablet dan suntik;asam lambung,
+291;P;Papaverine;Obat resep;Antispasmodik/vasodilator;Melemaskan otot polos;Dewasa;Tablet dan suntik;nyeri otot
+303;Q;Quetiapine;Obat resep;Antipsikotik atipikal;Mengobati gangguan mental, seperti skizofrenia, mengatasi dan mencegah gangguan bipolar, dan mengobati depresi.;Dewasa;Tablet salut selaput, tablet pelepasan lambat;gangguan mental
+304;Q;Quinidine;Antiaritmia;Obat resep;Mengobati gangguan irama jantung dan malaria;Dewasa dan anak-anak;Tablet dan suntik;gangguan irama jantung dan malaria
+305;Q;Quixx;Obat herbal - Consumer product;Obat sakit tenggorokan;Perawatan masalah tenggorokan;Dewasa untuk Quixx Sore Throat Spray, Anak usia >3 tahun untuk Quixx Sore Throat Spray For Kids;Cairan semprot;sakit tenggorokan
+306;Q;Quinapril;Obat resep;ACE inhibitor;Mengatasi hipertensi dan gagal jantung;Dewasa;Tablet;hipertensi dan gagal jantung
+307;R;Rabeprazole;Obat resep;"Penghambat pompa proton (proton pump inhibitor)
+";"1. Mengatasi penyakit asam lambung
+2. Menangani tukak lambung atau ulkus duodenum 
+3. Mengatasi esofagitis erosif
+4. Menangani infeksi Helicobacter pylori
+5. Mengatasi sindrom Zollinger-Ellison";"Dewasa dan anak-anak
+";Tablet dan kapsul lepas lambat;Asam lambung
+308;R;Racecadotril;Obat resep;Obat antidiare;Mengobati diare akut dan mencegah dehidrasi;Dewasa;Kapsul;Diare
+309;R;Radium;Obat resep;Zat radioaktif;Mengobati kanker prostat yang menyebar ke tulang;Dewasa;Suntik;Kanker prostat
+310;R;Raloxifen;Obat resep;Selective estrogen receptor modulators (terapi pengganti hormon);Mencegah atau mengobati osteoporosis pada wanita pascamenopause;Dewasa;Tablet;Osteoporosis
+311;R;Ramipril;Obat resep;Antihipertensi golongan ACE inhibitor;"1. Menurunkan tekanan darah tinggi pada penderita hipertensi
+2. Mengobati gagal jantung
+3. Mengatasi gagal ginjal akibat diabetes
+4. Memulihkan kondisi jantung setelah serangan jantung";"Dewasa
+";Tablet;Hipertensi, gagal jantung, gagal ginjal
+312;R;Ramucirumab;Obat resep;Obat antikanker/kemoterapi;Mengobati kanker lambung, kanker paru jenis non-small cell (NSCLC), serta kanker hati jenis hepatocellular carcinoma (HCC) stadium lanjut;Dewasa;Infus;Kanker lambung, kanker paru-paru
+313;R;Ranitidin;Antagonis H2;Obat resep;"Menurunkan produksi asam lambung berlebih
+";Dewasa dan anak-anak;Tablet, kaplet, sirop, dan cairan suntik;Asam lambung
+314;R;Ranivel;Obat resep;Antagonis H2;Menurunkan produksi asam lambung;Dewasa dan anak-anak;Tablet, sirop, dan suntik;Asam lambung
+315;R;Ranolazine;Obat resep;Obat antiangina;"Mencegah atau mengurangi terjadinya angina pektoris
+";Dewasa;Tablet pelepasan lambat;Angina pektoris
+316;R;Raost;Obat antiinflamasi nonsteroid (OAINS);Obat resep;Meredakan nyeri dan peradangan, contohnya pada radang sendi, sakit gigi, atau migrain;"Dewasa dan anak usia ≥14 tahun
+";Kaplet;Pereda nyeri, radang sendi, sakit gigi, migrain
+317;R;Rebamipide;Obat resep;Antasida;"Mengatasi penyakit lambung, seperti ulkus lambung dan gastritis
+";Dewasa;Tablet;Gastritis
+318;R;Recansa;Obat resep;Obat penurun kolesterol golongan statin;"1. Menurunkan kadar kolesterol dan trigliserida pada penderita kolesterol tinggi dan homozygous familial hypercholesterolaemia atau heterozygous familial hypercholesterolaemia
+2. Mengurangi risiko terkena penyakit jantung dan stroke akibat kadar kolesterol yang tinggi";Dewasa, anak-anak, dan lansia;Tablet salut selaput;Kolestrol
+319;R;Rechol;Obat resep;Obat penurun kolesterol golongan statin;Menurunkan kadar kolesterol dalam darah;Dewasa dan anak usia ≥10 tahun;Tablet salut selaput;Kolestrol
+320;R;Recolfar;Obat resep;"Obat urikosurik atau anti-gout
+";Mengobati atau mencegah terjadinya serangan asam urat;Dewasa;Tablet;Asam urat
+328;S;Saccharomyces;"Obat bebas
+";"Probiotik
+";"Mencegah dan meredakan diare
+";"Dewasa dan anak-anak
+";"Kapsul dan tablet
+";Diare
+329;S;Salonpas;Obat bebas;Analgesik;Meredakan nyeri pada otot dan sendi, serta mengatasi sakit kepala dan sakit gigi;Dewasa dan anak-anak;Koyo, gel, krim, losion, dan semprot (spray);Cedera, nyeri otot, keseleo
+330;S;Sacubitril-Valsartan;Obat resep;"Angiotensin receptor neprilysin inhibitor (ARNI)
+";Mengobati gagal jantung kronis;Dewasa;Tablet;Gagal jantung
+331;S;Sagestam;"Antibiotik topikal golongan aminoglikosida
+";Obat resep;Mengatasi infeksi bakteri pada kulit, seperti impetigo, folikulitis, atau bisul;Dewasa dan anak-anak;Krim;Bisul
+332;S;Sakatonik Liver;Obat bebas;Suplemen zat besi dan vitamin;Mengatasi anemia defisiensi zat besi.;Dewasa dan anak-anak;Kaplet dan sirop;Anemia
+333;S;Salbutamol;"Bronkodilator (beta-2-agonist dengan reaksi cepat)
+";"Obat resep
+";Mengatasi sesak napas, batuk, serta mengi atau bengek, akibat serangan asma atau penyakit paru obstruktif kronik (PPOK), termasuk emfisema dan bronkitis kronis;"Dewasa dan anak usia ≥2 tahun
+";"Tablet, kapsul, sirop, suntik
+";Sesak nafas, bengek, batuk
+334;S;Samcobion;Obat bebas;Suplemen vitamin dan mineral;"Mengatasi dan mencegah anemia defisiensi besi
+";Dewasa dan anak usia >12 tahun;Kaplet;Anemia
+335;S;Samcofenac;Obat resep;Obat antiinflamasi nonsteroid (OAINS);"Meringankan gejala radang sendi pada rheumatoid arthritis, osteoarthritis, dan ankylosing spondylitis
+";"Dewasa ≥18 tahun
+";Tablet salut enterik;Radang sendi
+336;S;Samquinor;Obat resep;Antibiotik quinolone;Mengatasi infeksi bakteri;Dewasa dan anak usia ≥12 tahun;"Kaplet
+";Infeksi bakteri
+337;S;Samsca;Obat resep;Vasopressin receptor antagonists;Menangani hiponatremia;Dewasa;Tablet;Hiponatermia
+349;T;Tacrine;Obat resep;"Penghambat enzim kolinesterase
+";"Mengatasi demensia akibat penyakit Alzheimer
+";Dewasa;"Kapsul
+";Demensia
+350;T;Tadalafil;Obat resep;Obat disfungsi ereksi;"Mengatasi impotensi, mengobati gejala pembesaran prostat jinak, dan menangani hipertensi pulmonal.
+";Dewasa;"Tablet, orodispersible film, oral dissolving film (ODF)
+";Impotensi
+351;T;Tamcocin;Obat resep;Antibiotik lincosamide;Mengatasi infeksi bakteri pada paru-paru, kulit, tulang, dan sendi;Dewasa dan anak usia ≥1 bulan;Kapsul;Infeksi bakteri pada paru-paru, kulit, tulang, sendi
+352;T;Tamofen;Obat resep;"Antiestrogen
+";"1. Menangani dan menurunkan risiko terjadinya kanker payudara
+2. Mengatasi infertilitas pada perempuan";Dewasa;"Tablet
+";Kanker payudara
+353;T;"Tamoxifen
+";"Obat resep
+";Antiestrogen;Menangani dan menurunkan risiko terjadinya kanker payudara;Dewasa;Tablet;Kanker payudara
+354;T;Tamsulosin;Obat resep;"Penghambat alfa
+";"Meredakan gejala pembesaran prostat (benign prostatic hyperplasia/BPH
+";Dewasa;"Kapsul, tablet lepas lambat, dan tablet dispersibel
+";Prostat besar
+355;T;Tanapress;Obat resep;ACE inhibitor;Menangani tekanan darah tinggi;Dewasa;Tablet;Darah tinggi
+356;T;Tapentadol;Obat resep;"Antinyeri golongan opioid
+";Mengatasi nyeri sedang hingga berat, serta mengobati nyeri neuropatik pada pasien diabetes;Dewasa;Tablet;Nyeri cedera
+357;T;Tavacort;Obat resep;Antibiotik dan kortikosteroid topikal;Mengatasi peradangan kulit eksim, dermatitis numularis, dermatitis kontak, atau psoriasis yang mengalami infeksi;"Dewasa
+";Krim;Radang kulit
+358;T;Tegretol;"Obat resep
+";Antikonvulsan dan antimania;"1. Mengendalikan kambuhnya kejang pada penderita epilepsi.
+2. Meredakan nyeri di wajah akibat gangguan saraf trigeminal atau (trigeminal neuralgia)
+3. Meredakan nyeri pada tenggorokan, lidah, atau telinga akibat gangguan saraf (glossopharyngeal neuralgia)
+4. Mengatasi gejala gangguan bipolar yang tidak bisa diobati dengan penggunaan lithium";Dewasa dan anak usia ≥6 tahun;Tablet, tablet lepas lambat;Epilepsi
+359;T;Telbivudine;"Obat resep
+";Obat antivirus;Mengobati hepatitis B kronis;Dewasa dan remaja;Tablet;Hepatitis B
+360;T;Telfast;"Obat resep
+";Antihistamin;"Mengatasi gejala alergi
+";Dewasa dan anak usia >12 tahun;"Tablet
+";Alergi
+361;T;Telmisartan;Obat resep;Angiotensin II receptor blocker (ARB);Menangani hipertensi dan mengurangi risiko terjadinya stroke dan serangan jantung pada penderita penyakit kardiovaskular.;Dewasa;Tablet;Hipertensi
+362;T;"Telmisartan-Amlodipine
+";Obat resep;"Angiotensin II receptor blocker dan calcium-channel blocker
+";"Menurunkan tekanan darah yang terlalu tinggi (hipertensi)
+";Dewasa;Tablet;Hipertensi
+363;T;Telsat;Obat resep;Angiotensin II receptor blocker (ARB);Menurunkan tekanan darah tinggi;Dewasa;Tablet;Hipertensi, gagal jantung
+364;T;Temazepam;Obat resep;Obat penenang jenis benzodiazepine;"Mengatasi insomnia dan sebagai obat penenang sebelum prosedur operasi
+";Dewasa dan lansia;Kapsul;Hipertensi
+365;T;Temozolomide;Obat resep;Antikanker atau kemoterapi;"1. Menangani beberapa jenis kanker otak, terutama glioblastoma multiforme dan anaplastic astrocytoma
+2. Menangani kanker kulit melanoma yang sudah menyebar";Dewasa atau anak-anak;"Kapsul
+";Insomnia
+370;U;Ulcori;Obat resep;"Antibiotik golongan quinolone
+";"Mengobati konjungtivitis atau ulkus kornea akibat infeksi bakteri
+";Dewasa dan anak usia ≥1 tahun;Tetes mata (eye drop);Konjungtivitis
+371;U;Ulsicral;Obat resep;"Penghambat produksi asam lambung (antiulcerant)
+";"Mengatasi GERD, tukak lambung, ulkus dusodenum, atau gastritis kronis
+";Dewasa;Tablet dan sirop;GERD, tukak lambung, ulkus duodenum, gastritis kronis
+372;U;Ultraflu;Obat bebas terbatas;Obat demam dan flu;Meringankan gejala flu;Dewasa dan anak-anak;Kaplet;Flu
+373;U;"Ultraproct N Krim
+";Obat resep;Penghilang nyeri (anestesi) lokal dan kortikosteroid;"1. Mengatasi gejala wasir 
+2. Mengurangi nyeri akibat fisura ani, proktitis, dan tindakan operasi hemoroidektomi";Dewasa;Krim;Wasir
+374;U;Umeclidinium;Obat resep;Antikolinergik;"1. Meredakan gejala penyakit paru obstruktif kronik (PPOK), seperti bronkitis kronis atau emfisema
+2. Mencegah kekambuhan PPOK";Dewasa;Inhaler;Bronkitis kronis, emfisema
+375;U;Undecylenic Acid;Obat bebas;Obat antijamur;Mengobati infeksi jamur kulit;Dewasa dan anak >2 tahun;Krim;Kutu air, kurap
+376;U;Unisia;Obat resep;Antagonis kalsium dan angiotensin II receptor blocker (ARB);Mengatasi tekanan darah tinggi;Dewasa dan anak usia 1 tahun ke atas;Tablet;Hipertensi
+377;U;Uperio;Obat resep;Obat antihipertensi;Mengobati gagal jantung;Dewasa;"Tablet
+";Hipertensi
+378;U;Urea Topikal;Obat resep;Emolien;Melembapkan kulit dan mengatasi kulit kering, kasar, bersisik, dan iritasi kulit ringan akibat dermatitis atopik (eksim), psoriasis, iktiosis, atau keratosis;"Dewasa
+";Krim;Kulit kering, kasar, bersisik, iritasi kulit
+379;U;Uresix;"Obat resep
+";"Diuretik
+";Mengatasi edema dan tekanan darah tinggi;Dewasa dan anak-anak;Tablet dan suntik;Edema
+380;U;"Urief
+";Obat resep;"Penghambat alfa (alpha-blockers)
+";Meredakan gejala pembesaran kelenjar prostat jinak atau benign prostatic hyperplasia (BPH);"Pria dewasa
+";Tablet;Pembengkakan prostat
+396;V;"Vaksin Novavax
+";"Obat resep
+";Vaksin COVID-19;Mencegah infeksi virus Corona atau COVID-19;Dewasa;Suntik;Covid 19
+397;V;Vaksin Pfizer;Obat resep;Vaksin COVID-19;Mencegah terjadinya COVID-19 yang berat;Dewasa dan anak usia 6 bulan ke atas;"Suntik
+";Covid 19
+398;V;Vaksin Polio;Obat resep;Vaksin;Mencegah polio;Dewasa dan anak-anak;Suntik dan tetes mulut;Polio
+399;V;Vaksin Rabies;Obat resep;Vaksin;Mencegah penyakit rabies;Dewasa dan anak-anak;Suntik;Rabies
+400;V;Vaksin Rotavirus;Obat resep;Vaksin;Mencegah terjadinya infeksi rotavirus yang menyebabkan gastroenteritis atau muntaber;"1. Anak usia maksimal 6 bulan untuk vaksin rotavirus monovalen 
+2. Anak usia 8 bulan untuk vaksin rotavirus pentavalen";Suspensi atau larutan;Muntaber
+401;V;Vaksin Sinopharm;Obat resep;Vaksin COVID-19;Mencegah COVID-19;"Dewasa usia 18–59 tahun
+";"Suntik
+";Covid 19
+402;V;Vaksin Sinovac;Obat resep;Vaksin COVID-19;"Mencegah infeksi virus SARS-CoV-2 yang berat
+";Dewasa dan anak usia ≥6 tahun;Suntik;Covid 19
+403;V;Vaksin Sputnik;Obat resep;Vaksin COVID-19;Mencegah infeksi virus Corona atau COVID-19;Dewasa;Suntik;Covid 19
+404;V;Vaksin Tifoid;Obat resep;Vaksin;Mencegah demam tifoid atau tipes;Dewasa dan anak usia ≥2 tahun;Suntik;Tipes
+405;V;Valacyclovir;Obat resep;Antivirus;Mengatasi infeksi virus herpes;Dewasa dan anak usia ≥12 tahun;Kaplet dan tablet;Herpes
+406;W;Warfarin;Obat resep;Antikoagulan;Mencegah dan mengatasi penggumpalan darah;Dewasa;Tablet;penggumpalan darah
+407;W;Wldoxil;Obat resep;Antibiotik golongan sefalosporin;Mengobati infeksi bakteri pada kulit dan jaringan, otot dan tulang, saluran pernapasan, saluran kemih, serta area kemaluan;Dewasa dan anak;Kapsul;infeksi bakteri 
+408;W;Wiros;Obat resep;Obat antiinflamasi nonsteroid (OAINS);Meredakan nyeri dan peradangan;Dewasa;Kapsul;nyeri dan peradangan
+409;W;Wheat Dextrin;Obat bebas;Suplemen serat atau obat pencahar pembentuk massa tinja;Memenuhi kebutuhan serat harian dan mengatasi konstipasi;Dewasa dan anak-anak;Bubuk, tablet, dan tablet kunyah;pembentuk masa tinja
+410;W;Winatin;Obat resep;Antihistamin;Meredakan gejala alergi, seperti rhinitis alergi, biduran, atau konjungtivitis alergi;Dewasa dan anak usia ≥12 tahun;Kaplet;alergi gatal gata
+411;W;Woods Peppermint;Obat bebas;Obat batuk antitusif/ekspektoran/mukolitik;Meredakan batuk dan melegakan tenggorokan;Dewasa dan anak-anak usia 6 tahun ke atas.;Sirop dan permen pelega tenggorokan (lozenges);batuk 
+412;X;Xalatan;Obat resep;Analog prostaglandin;"Menurunkan tekanan di dalam mata akibat glaukoma sudut terbuka atau hipertensi okular
+";"Dewasa (>18 tahun) dan lansia
+";Tetes mata;Hipertensi okula, glaukoma
+413;X;Xalkori;Obat resep;Penghambat protein kinase;"Mengobati kanker paru jenis non-small cell yang sudah menyebar ke organ lain dan limfoma jenis anaplastic large cell lymphoma yang kambuh
+";"Dewasa
+";Kapsul;Kanker paru, limfoma
+414;X;Xanax;Obat resep;"Obat penenang golongan benzodiazepine
+";Mengobati gangguan kecemasan dan gangguan panik;"Dewasa dan lansia
+";Kaplet dan tablet sublingual;Gangguan kecemasan, gangguan panik
+415;X;Xanturic;Obat resep;Obat penghambat xanthine-oxidase;Menurunkan kadar asam urat dalam darah;Dewasa dan anak-anak;Tablet;Asam urat, gout
+416;X;Xevolac;"Obat resep
+";"Obat antiinflamasi nonsteroid (NSAID)
+";"Meredakan nyeri skala sedang hingga berat, contohnya nyeri setelah operasi
+";Dewasa (usia ≥16 tahun);"Tablet salut selaput, orally disintegrating tablet, dan cairan suntik
+";Meredakan
+417;X;Xiety;Obat resep;Antiansietas;Mengatasi gangguan kecemasan;"Dewasa
+";Kaplet;Gangguan kecemasan, gangguan panik
+418;X;"Xilergy
+";Obat bebas terbatas;Antihistamin;Meredakan gejala alergi, seperti biduran atau pilek;Dewasa dan anak usia ≥6 bulan;"Tablet dan sirop
+";Alergi, seperti hidung meler, mata gatal, bersin-bersin, gatal-gatal, biduran.
+419;X;Ximex Tetrium;Obat resep;Obat bius (anestesi) lokal;Menghilangkan sementara rasa sakit di mata sebelum prosedur medis;Dewasa;Tetes mata;Nyeri mata
+420;X;Xylometazoline;Obat bebas;Dekongestan;Mengatasi masalah hidung tersumbat;Dewasa dan anak usia >6 tahun;Tetes hidung (drops);Hidung tersumbat
+421;Z;Zanamivir;Obat resep;Obat antivirus penghambat neuraminidase;Mencegah dan mengatasi influenza;Dewasa dan anak usia 5 tahun ke atas;Serbuk inhalasi oral;influenza
+422;Z;Zegren;Obat resep;Obat antiinflamasi nonsteroid (OAINS);Meredakan nyeri dan peradangan;Dewasa;Tablet;nyeri dan peradangan
+423;Z;Zelona;Obat antiinflamasi nonsteroid (OAINS);Obat resep;Meredakan nyeri dan peradangan;Dewasa;Tablet;nyeri dan peradangan
+424;Z;Zelface;Obat resep;Asam dikarboksilat (dicarboxylic acid);Mengobati jerawat ringan hingga sedang;Dewasa dan anak usia >12 tahun;Krim;jerawat
+425;Z;Zemplar;Obat resep;Antiparatiroid;Mengatasi hiperparatiroidisme akibat penyakit ginjal kronis;Dewasa;Suntik;iperparatiroidisme akibat penyakit ginjal kronis
+426;Z;Zentra;Obat resep;Obat batuk pilek dan alergi;Meringankan gejala alergi, flu, atau pilek, seperti bersin-bersin serta hidung meler atau tersumbat;Dewasa dan anak usia ≥6 tahun;Kaplet dan sirop;alergi, flu, pilek
+427;Z;Zevask;Obat resep;Antagonis kalsium;Menurunkan tekanan darah pada hipertensi, Mencegah angina pektoris;Dewasa dan anak-anak;Kaplet;hipertensi dan angina pektoris
+428;Z;Zidovudine;Obat resep;Antivirus nucleoside reverse transciptase inhibitors (NRTIs);Memperlambat perkembangan HIV, serta mencegah penularan HIV dari ibu hamil yang terinfeksi ke bayinya;Dewasa dan bayi baru lahir;Tablet, kapsul, dan kaplet;HIV
+429;Z;Zigat;Obat resep;Antibiotik golongan quinolone;Mengobati infeksi bakteri;Dewasa usia >18 tahun;Tablet salut selaput;infeksi bakteri
+430;Z;Zitanid;Obat resep;Obat relaksan otot;Mengatasi otot tegang;Dewasa;Tablet;otot tegang
+431;Z;Zolagel;Obat bebas terbatas;Antijamur;Mengobati infeksi jamur pada kulit dan kuku;Dewasa dan anak-anak;Krim;infeksi jamur pada kulit dan kuku
+432;Z;Zolastin;Obat resep;Benzodiazepine;Menangani gangguan kecemasan dan gangguan panik;Dewasa;Tablet;gangguan kecemasan
+433;Z;Zoledronic Acid;Obat resep;Bisfosfonat;Mengatasi hiperkalsemia akibat kanker, osteoporosis, kanker yang sudah menyebar ke tulang, atau penyakit Paget;Dewasa;Suntik;hiperkalsemia akibat kanker, osteoporosis,
+434;Z;Zoline;Obat resep;Antihistamin;Meredakan gejala alergi pada rhinitis alergi, konjungtivitis alergi, atau biduran;Dewasa dan anak usia ≥10 tahun;Kaplet;gejala alergi pada rhinitis alergi, konjungtivitis alergi, atau biduran
